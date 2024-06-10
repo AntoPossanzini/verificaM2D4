@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body {
+    margin-top: 300px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#symbol {
+    height: 50px;
+}
+
+.subtitle {
+    font-size: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+
+}
+
+#button {
+    width: 80px;
+}
+
+ul {
+    padding-block: 20px;
+    padding-inline: 15px;
+  }
+
+li {
+    color: black;
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 16px;
+}
